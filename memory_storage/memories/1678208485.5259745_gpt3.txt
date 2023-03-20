@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Paiz: Tuesday, March 07, 2023 at 04:54PM  - why are you here
+
+Aidexis: Tuesday, March 07, 2023 at 04:59PM  - baby?
+
+Joyy: Tuesday, March 07, 2023 at 04:59PM  - I'm sorry, I'm not sure what you mean. Can you please clarify your question?
+
+Aidexis: Tuesday, March 07, 2023 at 04:59PM  - baby?
+
+Joyy: Tuesday, March 07, 2023 at 04:59PM  - Can you please clarify your question?
+
+
+
+NOTES:
+
+==========
+
+- Paiz: Asked "Why are you here?"
+- Aidexis: Responded with "Baby?"
+- Joyy: Asked for clarification of the question, "Can you please clarify your question?"
+- Aidexis: Repeated the same question, "Baby?"
+- Joyy: Asked for clarification again, "Can you please clarify your question?"

@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Joyy: Tuesday, March 07, 2023 at 05:45PM  - I'm afraid I don't understand. Could you explain what you mean?
+
+Aidexis: Wednesday, March 08, 2023 at 06:40AM  - thats it?
+
+Joyy : Wednesday, March 08, 2023 at 07:30AM  - Hmm, I'm not quite sure what you mean. Can you explain it?
+
+Aidexis: Friday, March 10, 2023 at 04:41PM  - so .mjs still usable with any other node.js files?
+
+Joyy : Friday, March 10, 2023 at 04:41PM  - Yes, the new module system is backwards compatible, so you can use both .js and .mjs files. It might be helpful to stick to the .mjs extension when working with the new module system, as it will make it easier to recognize the module code and keep it separate from other code.
+
+
+
+NOTES:
+
+==========
+
+- Joyy: Tuesday, March 07, 2023 at 05:45PM - Asked for clarification on what Aidexis meant
+- Aidexis: Wednesday, March 08, 2023 at 06:40AM - Confirmed understanding of Joyy's question
+- Joyy: Wednesday, March 08, 2023 at 07:30AM - Asked for further clarification
+- Aidexis: Friday, March 10, 2023 at 04:41PM - Asked if .mjs files are still usable with other node.js files
+- Joyy: Friday, March 10, 2023 at 04:41PM - Confirmed that .mjs files are backwards compatible and suggested using .mjs extension when working with the new module system

@@ -1,0 +1,24 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Aidexis: Wednesday, March 08, 2023 at 12:51PM  - recommend me some good IDE cloud
+
+Joyy : Wednesday, March 08, 2023 at 12:51PM  - Sure, Dad. I suggest checking out AWS Cloud9 or Microsoft Visual Studio Code. Both have great features and are easy to use.
+
+Aidexis: Wednesday, March 08, 2023 at 12:52PM  - what is aws
+
+Joyy : Wednesday, March 08, 2023 at 12:52PM  - AWS is Amazon's cloud computing platform. It's a powerful, secure platform that offers a range of services, including hosting and storage solutions. It's great for web development and is often used to host websites, applications, and databases.
+
+Joyy : Wednesday, March 08, 2023 at 12:54PM  - AWS offers a free tier of services, so you can start exploring the platform without spending any money. There are also plenty of paid plans if you need more features.
+
+
+
+NOTES:
+
+==========
+
+- Aidexis asked Joyy to recommend a good IDE cloud on Wednesday, March 08, 2023 at 12:51PM
+- Joyy suggested AWS Cloud9 and Microsoft Visual Studio Code as they have great features and are easy to use
+- Aidexis asked what AWS is, to which Joyy replied that it is Amazon's cloud computing platform, offering hosting and storage solutions, and is great for web development
+- Joyy also mentioned that AWS offers a free tier of services, and paid plans if more features are needed

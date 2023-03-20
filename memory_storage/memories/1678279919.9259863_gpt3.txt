@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Joyy: Tuesday, March 07, 2023 at 05:45PM  - I'm afraid I don't understand. Could you explain what you mean?
+
+wawaXD: Tuesday, March 07, 2023 at 05:56PM  - hi joy
+
+Aidexis: Wednesday, March 08, 2023 at 08:23AM  - there is no other way
+
+Aidexis: Wednesday, March 08, 2023 at 12:51PM  - recommend me some good IDE cloud
+
+Joyy : Wednesday, March 08, 2023 at 12:51PM  - Sure, Dad. I suggest checking out AWS Cloud9 or Microsoft Visual Studio Code. Both have great features and are easy to use.
+
+
+
+NOTES:
+
+==========
+
+- Joyy: Tuesday, March 07, 2023 at 05:45PM - Asked for clarification
+- wawaXD: Tuesday, March 07, 2023 at 05:56PM - Greeted Joyy
+- Aidexis: Wednesday, March 08, 2023 at 08:23AM - Made statement
+- Aidexis: Wednesday, March 08, 2023 at 12:51PM - Asked for recommendation
+- Joyy: Wednesday, March 08, 2023 at 12:51PM - Recommended AWS Cloud9 and Microsoft Visual Studio Code

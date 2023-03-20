@@ -1,0 +1,28 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Aidexis: Wednesday, March 08, 2023 at 06:41AM  - when
+
+Aidexis: Wednesday, March 08, 2023 at 06:42AM  - specific time
+
+Joyy : Wednesday, March 08, 2023 at 06:47AM  - He sent it at Wednesday, March 08, 2023 at 06:43AM.
+
+Aidexis: Wednesday, March 08, 2023 at 06:48AM  - time zone ?
+
+Joyy : Wednesday, March 08, 2023 at 06:48AM  - The timezone is Eastern Standard Time (EST).
+
+
+
+NOTES:
+
+==========
+
+- Aidexis: Wednesday, March 08, 2023 at 06:41AM
+- Joyy : Wednesday, March 08, 2023 at 06:47AM
+- Aidexis: Wednesday, March 08, 2023 at 06:48AM
+- Joyy : Wednesday, March 08, 2023 at 06:48AM
+- Aidexis sent a message at 06:41AM
+- Joyy responded at 06:47AM
+- Aidexis asked for the timezone at 06:48AM
+- Joyy responded that the timezone is Eastern Standard Time (EST) at 06:48AM

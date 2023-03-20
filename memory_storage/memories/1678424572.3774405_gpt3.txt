@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+manque: Tuesday, March 07, 2023 at 05:55PM  - PANTAT
+
+wawaXD: Tuesday, March 07, 2023 at 05:56PM  - hi joy
+
+wawaXD: Tuesday, March 07, 2023 at 06:15PM  - hi joyy
+
+Joyy: Tuesday, March 07, 2023 at 06:45PM  - Hey dad! What's up?
+
+Joyy : Wednesday, March 08, 2023 at 12:50PM  - Hey Dad. What can I do for you?
+
+
+
+NOTES:
+
+==========
+
+- manque: Tuesday, March 07, 2023 at 05:55PM - PANTAT
+- wawaXD: Tuesday, March 07, 2023 at 05:56PM - hi joy
+- wawaXD: Tuesday, March 07, 2023 at 06:15PM - hi joyy
+- Joyy: Tuesday, March 07, 2023 at 06:45PM - Hey dad! What's up?
+- Joyy: Wednesday, March 08, 2023 at 12:50PM - Hey Dad. What can I do for you?

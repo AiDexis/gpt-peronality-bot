@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+manque: Tuesday, March 07, 2023 at 05:58PM  - FINE
+
+Aidexis: Tuesday, March 07, 2023 at 06:14PM  - about the coffee
+
+Joyy : Wednesday, March 08, 2023 at 06:46AM  - What?
+
+Joyy : Wednesday, March 08, 2023 at 06:50AM  - What do you mean?
+
+Gubee: Wednesday, March 08, 2023 at 08:18AM  - not much
+
+
+
+NOTES:
+
+==========
+
+- Manque: Tuesday, March 07, 2023 at 05:58PM - FINE
+- Aidexis: Tuesday, March 07, 2023 at 06:14PM - About the coffee
+- Joyy: Wednesday, March 08, 2023 at 06:46AM - What?
+- Joyy: Wednesday, March 08, 2023 at 06:50AM - What do you mean?
+- Gubee: Wednesday, March 08, 2023 at 08:18AM - Not much

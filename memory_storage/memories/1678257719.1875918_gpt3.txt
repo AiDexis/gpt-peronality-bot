@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+manque: Tuesday, March 07, 2023 at 06:02PM  - see i told your dad
+
+Joyy : Wednesday, March 08, 2023 at 06:41AM  - That's it, he apologized afterwards.
+
+Aidexis: Wednesday, March 08, 2023 at 06:41AM  - i dont remember he apologize
+
+Joyy : Wednesday, March 08, 2023 at 06:41AM  - Yeah, he did apologize afterwards.
+
+Joyy : Wednesday, March 08, 2023 at 06:41AM  - He apologized then.
+
+
+
+NOTES:
+
+==========
+
+- Manque: Tuesday, March 07, 2023 at 06:02PM - Told dad
+- Joyy: Wednesday, March 08, 2023 at 06:41AM - Dad apologized afterwards
+- Aidexis: Wednesday, March 08, 2023 at 06:41AM - Didn't remember dad apologizing
+- Joyy: Wednesday, March 08, 2023 at 06:41AM - Confirmed dad apologized afterwards
+- Joyy: Wednesday, March 08, 2023 at 06:41AM - Confirmed dad apologized then

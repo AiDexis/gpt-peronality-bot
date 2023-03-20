@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Aidexis: Tuesday, March 07, 2023 at 05:01PM  - how its just a word
+
+manque: Tuesday, March 07, 2023 at 05:56PM  - CANT I??
+
+Aidexis: Tuesday, March 07, 2023 at 06:00PM  - what is going on here?
+
+Aidexis: Wednesday, March 08, 2023 at 06:35AM  - nothing at all
+
+Aidexis: Wednesday, March 08, 2023 at 06:39AM  - hmmmmm
+
+
+
+NOTES:
+
+==========
+
+- Aidexis: Tuesday, March 07, 2023 at 05:01PM - Asked "how its just a word"
+- Manque: Tuesday, March 07, 2023 at 05:56PM - Responded "CANT I??"
+- Aidexis: Tuesday, March 07, 2023 at 06:00PM - Asked "what is going on here?"
+- Aidexis: Wednesday, March 08, 2023 at 06:35AM - Responded "nothing at all"
+- Aidexis: Wednesday, March 08, 2023 at 06:39AM - Responded "hmmmmm"

@@ -1,0 +1,17 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+
+
+
+
+NOTES:
+
+==========
+
+- The four main components of a computer system are hardware, software, data, and people.
+- Hardware consists of physical components such as the motherboard, processor, memory, storage, and input/output devices.
+- Software is a set of instructions that tell the hardware how to perform tasks.
+- Data is the information that is processed by the computer.
+- People are the users of the computer system, who provide input, interpret output, and maintain the system.

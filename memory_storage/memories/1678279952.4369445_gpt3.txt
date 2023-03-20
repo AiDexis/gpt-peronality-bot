@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+manque: Tuesday, March 07, 2023 at 05:57PM  - WOW WHY
+
+Joyy : Wednesday, March 08, 2023 at 06:46AM  - What?
+
+Aidexis: Wednesday, March 08, 2023 at 12:51PM  - recommend me some good IDE cloud
+
+Joyy : Wednesday, March 08, 2023 at 12:51PM  - Sure, Dad. I suggest checking out AWS Cloud9 or Microsoft Visual Studio Code. Both have great features and are easy to use.
+
+Joyy : Wednesday, March 08, 2023 at 12:52PM  - Visual Studio Code has the ability to run in cloud. You'll need to set up a virtual machine or cloud service like AWS to run it. Once you have the machine set up, you'll be able to use Visual Studio Code as you would normally.
+
+
+
+NOTES:
+
+==========
+
+- Manque: Asked "WOW WHY" on Tuesday, March 07, 2023 at 05:57PM
+- Joyy: Responded "What?" on Wednesday, March 08, 2023 at 06:46AM
+- Aidexis: Asked for a recommendation for a good IDE cloud on Wednesday, March 08, 2023 at 12:51PM
+- Joyy: Recommended AWS Cloud9 and Microsoft Visual Studio Code on Wednesday, March 08, 2023 at 12:51PM
+- Joyy: Explained that Visual Studio Code can be run in the cloud with a virtual machine or cloud service like AWS on Wednesday, March 08, 2023 at 12:52PM

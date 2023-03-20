@@ -1,0 +1,26 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Aidexis: Wednesday, March 08, 2023 at 06:48AM  - time zone ?
+
+Joyy : Wednesday, March 08, 2023 at 12:51PM  - Sure, Dad. I suggest checking out AWS Cloud9 or Microsoft Visual Studio Code. Both have great features and are easy to use.
+
+Aidexis: Wednesday, March 08, 2023 at 12:51PM  - how do i use visual studio code to run in cloud
+
+Joyy : Wednesday, March 08, 2023 at 12:52PM  - Visual Studio Code has the ability to run in cloud. You'll need to set up a virtual machine or cloud service like AWS to run it. Once you have the machine set up, you'll be able to use Visual Studio Code as you would normally.
+
+Aidexis: Wednesday, March 08, 2023 at 12:57PM  - back to square 1 
+what other Cloud IDE i can use instead of u usually use like repl.it
+
+
+
+NOTES:
+
+==========
+
+- Aidexis: Wednesday, March 08, 2023 at 06:48AM - time zone ?
+- Joyy : Wednesday, March 08, 2023 at 12:51PM - Suggested AWS Cloud9 or Microsoft Visual Studio Code as Cloud IDE
+- Aidexis: Wednesday, March 08, 2023 at 12:51PM - Asked how to use Visual Studio Code to run in cloud
+- Joyy : Wednesday, March 08, 2023 at 12:52PM - Explained need to set up virtual machine or cloud service like AWS to run Visual Studio Code
+- Aidexis: Wednesday, March 08, 2023 at 12:57PM - Asked for other Cloud IDE to use instead of repl.it

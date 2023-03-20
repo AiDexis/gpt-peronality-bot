@@ -1,0 +1,214 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Aidexis: Wednesday, March 08, 2023 at 12:57PM  - back to square 1 
+what other Cloud IDE i can use instead of u usually use like repl.it
+
+Aidexis: Friday, March 10, 2023 at 06:03AM  - const { Client, GatewayIntentBits, Partials } = require("discord.js");
+const { DisTube } = require("distube");
+const { SpotifyPlugin } = require("@distube/spotify");
+const { SoundCloudPlugin } = require("@distube/soundcloud");
+const { DeezerPlugin } = require("@distube/deezer");
+const { YtDlpPlugin } = require("@distube/yt-dlp");
+const config = require("./confi.js");
+const fs = require("fs");
+const client = new Client({
+  partials: [
+    Partials.Channel, // for text channel
+    Partials.GuildMember, // for guild member
+    Partials.User, // for discord user
+  ],
+  intents: [
+    GatewayIntentBits.Guilds, // for guild related things
+    GatewayIntentBits.GuildMembers, // for guild members related things
+    GatewayIntentBits.GuildIntegrations, // for discord Integrations
+    GatewayIntentBits.GuildVoiceStates, // for voice related things
+  ],
+});
+
+client.config = config;
+client.player = new DisTube(client, {
+  leaveOnStop: config.opt.voiceConfig.leaveOnStop,
+  leaveOnFinish: config.opt.voiceConfig.leaveOnFinish,
+  emitNewSongOnly: true,
+  emitAddSongWhenCreatingQueue: false,
+  emitAddListWhenCreatingQueue: false,
+  plugins: [
+    new SpotifyPlugin(),
+    new SoundCloudPlugin(),
+    new YtDlpPlugin(),
+    new DeezerPlugin()
+  ],
+});
+
+const player = client.player;
+client.language = config.language || "en";
+let lang = require(`./languages/${config.language || "en"}.js`);
+
+fs.readdir("./events", (_err, files) => {
+  files.forEach((file) => {
+    if (!file.endsWith(".js")) return;
+    const event = require(`./events/${file}`);
+    let eventName = file.split(".")[0];
+    console.log(`${lang.loadclientevent}: ${eventName}`);
+    client.on(eventName, event.bind(null, client));
+    delete require.cache[require.resolve(`./events/${file}`)];
+  });
+});
+
+fs.readdir("./events/player", (_err, files) => {
+  files.forEach((file) => {
+    if (!file.endsWith(".js")) return;
+    const player_events = require(`./events/player/${file}`);
+    let playerName = file.split(".")[0];
+    console.log(`${lang.loadevent}: ${playerName}`);
+    player.on(playerName, player_events.bind(null, client));
+    delete require.cache[require.resolve(`./events/player/${file}`)];
+  });
+});
+
+client.commands = [];
+fs.readdir(config.commandsDir, (err, files) => {
+  if (err) throw err;
+  files.forEach(async (f) => {
+    try {
+      if (f.endsWith(".js")) {
+        let props = require(`${config.commandsDir}/${f}`);
+        client.commands.push({
+          name: props.name,
+          description: props.description,
+          options: props.options,
+        });
+        console.log(`${lang.loadcmd}: ${props.name}`);
+      }
+    } catch (err) {
+      console.log(err);
+    }
+  });
+});
+
+if (config.TOKEN || process.env.TOKEN) {
+  client.login(config.TOKEN || process.env.TOKEN).catch((e) => {
+    console.log(lang.error1);
+  });
+} else {
+  setTimeout(() => {
+    console.log(lang.error2);
+  }, 2000);
+}
+
+
+if(config.mongodbURL || process.env.MONGO){
+  const mongoose = require("mongoose")
+  mongoose.connect(config.mongodbURL || process.env.MONGO, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  }).then(async () => {
+    console.log(`Connected MongoDB`)
+  }).catch((err) => {
+    console.log("\nMongoDB Error: " + err + "\n\n" + lang.error4)
+    })
+  } else {
+  console.log(lang.error4)
+  }
+
+
+const express = require("express");
+const app = express();
+const http = require("http");
+app.get("/", (request, response) => {
+  response?.sendStatus(200);
+});
+app.listen(process?.env?.PORT);
+
+Aidexis: Friday, March 10, 2023 at 06:03AM  - const { Client, Events, GatewayIntentBits } = require("discord.js")
+require("dotenv/config")
+const { OpenAIApi, Configuration } = require("openai")
+
+const config = new Configuration({
+  apiKey: process.env['OpenAi_token']
+})
+
+
+const openai = new OpenAIApi(config)
+
+const client = new Client({
+  intents: [
+    GatewayIntentBits.Guilds,
+    GatewayIntentBits.GuildMessages,
+    GatewayIntentBits.MessageContent
+  ]
+})
+
+client.once(Events.ClientReady, (clientUser) => {
+  console.log(`Logged in as ${clientUser.user.tag}`)
+})
+
+client.login(process.env['Token_bot'])
+
+
+const BOT_CHANNEL = process.env.Bot_channel
+const PAST_MESSAGES = 5
+
+client.on(Events.MessageCreate, async (message) => {
+  if (message.author.bot) return //ignore msg from itself 
+  if (message.channel.id !== BOT_CHANNEL) return //ignore msg from any other channer other than bot_channel
+  if (message.content.startsWith('//')) {//ignore any msg starts with "//"
+    return;
+  } if (message.content.startsWith('sex' || 'sexs' || 'amput' || 'amputs' || 'amput'||'azzy')) {
+    return;
+  } else {
+    console.log(message.content)
+    message.channel.sendTyping()
+
+    let messages = Array.from(await message.channel.messages.fetch({
+      limit: PAST_MESSAGES,
+      before: message.id
+    }))
+
+  
+      messages = messages.map(m => m[1])
+      messages.unshift(message)
+
+    let users = [...new Set([...messages.map(m => m.member ? m.member.displayName : m.author.username), client.user.username])]
+
+    let lastUser = users.pop()
+
+    let prompt = `The following is a conversation between ${users.join(", ")}, and ${lastUser}. \n\n`
+
+    for (let i = messages.length - 1; i >= 0; i--) {
+      const m = messages[i]
+      prompt += `${m.member ? m.member.displayName : m.author.username}: ${m.content}\n`
+    }
+    prompt += `${client.user.username}:`
+    console.log("prompt:", prompt)
+
+    const response = await openai.createCompletion({
+      prompt,
+      model: "text-davinci-003",
+      max_tokens: 400,
+  
+    })
+
+    console.log("response", response.data.choices[0].text)
+    await message.channel.send(response.data.choices[0].text)
+  }
+})
+
+combine it with this code
+
+Aidexis: Friday, March 10, 2023 at 04:41PM  - so .mjs still usable with any other node.js files?
+
+Aidexis: Friday, March 10, 2023 at 05:06PM  - yes it in javascript pls explain it
+
+
+
+NOTES:
+
+==========
+
+- Aidexis asked what other Cloud IDE can be used instead of repl.it on Wednesday, March 08, 2023 at 12:57PM
+- Aidexis provided code on Friday, March 10, 2023 at 06:03AM to connect to Discord, MongoDB, and OpenAI
+- Aidexis asked if .mjs is still usable with any other node.js files on Friday, March 10, 2023 at 04:41PM
+- Aidexis asked for an explanation on Friday, March 10, 2023 at 05:06PM

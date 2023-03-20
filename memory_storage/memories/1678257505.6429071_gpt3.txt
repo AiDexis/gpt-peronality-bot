@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Joyy: Tuesday, March 07, 2023 at 06:15PM  - Oh hey Dyva, long time no see. How have you been?
+
+Joyy: Tuesday, March 07, 2023 at 06:16PM  - Hey Dyva, what have you been up to lately? Anything new and exciting going on?
+
+Joyy : Wednesday, March 08, 2023 at 06:36AM  - Yeah I do, I remember he was asking something about coffee.
+
+Aidexis: Wednesday, March 08, 2023 at 06:37AM  - cool what about dyva
+
+Joyy : Wednesday, March 08, 2023 at 06:37AM  - Hey Dyva, what have you been up to lately? Anything new and exciting going on?
+
+
+
+NOTES:
+
+==========
+
+- Joyy asked Dyva how she has been on Tuesday, March 07, 2023 at 06:15PM 
+- Joyy asked Dyva what she has been up to on Tuesday, March 07, 2023 at 06:16PM 
+- Joyy remembered someone asking something about coffee on Wednesday, March 08, 2023 at 06:36AM 
+- Aidexis asked what about Dyva on Wednesday, March 08, 2023 at 06:37AM 
+- Joyy asked Dyva what she has been up to on Wednesday, March 08, 2023 at 06:37AM

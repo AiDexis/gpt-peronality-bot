@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+manque: Tuesday, March 07, 2023 at 05:57PM  - WOW you gonna kick me out?
+
+manque: Tuesday, March 07, 2023 at 05:58PM  - i will respect the rules and you will let me stay
+
+manque: Tuesday, March 07, 2023 at 05:59PM  - yes i will respect the rules as long as you let me stay here
+
+manque: Tuesday, March 07, 2023 at 06:00PM  - YES I KNOW
+
+manque: Tuesday, March 07, 2023 at 06:01PM  - i will not
+
+
+
+NOTES:
+
+==========
+
+- manque: Tuesday, March 07, 2023 at 05:57PM - WOW you gonna kick me out?
+- manque: Tuesday, March 07, 2023 at 05:58PM - i will respect the rules and you will let me stay
+- manque: Tuesday, March 07, 2023 at 05:59PM - yes i will respect the rules as long as you let me stay here
+- manque: Tuesday, March 07, 2023 at 06:00PM - YES I KNOW
+- manque: Tuesday, March 07, 2023 at 06:01PM - i will not

@@ -1,0 +1,25 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Gubee: Tuesday, March 07, 2023 at 05:35PM  - JOYOUS
+
+Joyy: Tuesday, March 07, 2023 at 05:35PM  - I'm feeling joyous today! How are you?
+
+Gubee: Tuesday, March 07, 2023 at 05:42PM  - joyous
+
+Aidexis: Tuesday, March 07, 2023 at 05:44PM  - joi?
+
+Joyy: Tuesday, March 07, 2023 at 05:44PM  - Sure, what kind of joy can I provide you with?
+
+
+
+NOTES:
+
+==========
+
+- Gubee: Tuesday, March 07, 2023 at 05:35PM - Feeling joyous
+- Joyy: Tuesday, March 07, 2023 at 05:35PM - Asking how Gubee is feeling
+- Gubee: Tuesday, March 07, 2023 at 05:42PM - Confirming feeling joyous
+- Aidexis: Tuesday, March 07, 2023 at 05:44PM - Asking for joy
+- Joyy: Tuesday, March 07, 2023 at 05:44PM - Offering to provide joy

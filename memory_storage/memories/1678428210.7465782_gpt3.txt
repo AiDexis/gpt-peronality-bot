@@ -1,0 +1,26 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Joyy : Wednesday, March 08, 2023 at 12:52PM  - Visual Studio Code has the ability to run in cloud. You'll need to set up a virtual machine or cloud service like AWS to run it. Once you have the machine set up, you'll be able to use Visual Studio Code as you would normally.
+
+Joyy : Wednesday, March 08, 2023 at 12:54PM  - AWS offers a free tier of services, so you can start exploring the platform without spending any money. There are also plenty of paid plans if you need more features.
+
+Aidexis: Wednesday, March 08, 2023 at 12:57PM  - back to square 1 
+what other Cloud IDE i can use instead of u usually use like repl.it
+
+Aidexis: Wednesday, March 08, 2023 at 12:59PM  - what if I wanted to run a discord bot code 24/7
+
+Joyy : Wednesday, March 08, 2023 at 12:59PM  - You can use any of the cloud IDEs mentioned earlier to create and run a Discord bot. The easiest way would be to use a virtual machine like AWS or DigitalOcean. You can also use Azure, Google Cloud Platform, or Codeanywhere to run your code. Make sure to research each platform to find the one that best fits your needs.
+
+
+
+NOTES:
+
+==========
+
+- Joyy : Wednesday, March 08, 2023 at 12:52PM - Visual Studio Code can be run in cloud with the use of a virtual machine or cloud service like AWS.
+- Joyy : Wednesday, March 08, 2023 at 12:54PM - AWS offers a free tier of services for exploring the platform.
+- Aidexis: Wednesday, March 08, 2023 at 12:57PM - Asked for other Cloud IDE options besides repl.it.
+- Aidexis: Wednesday, March 08, 2023 at 12:59PM - Asked if a Discord bot code can be run 24/7.
+- Joyy : Wednesday, March 08, 2023 at 12:59PM - Suggested using a virtual machine like AWS, DigitalOcean, Azure, Google Cloud Platform, or Codeanywhere to run the Discord bot code.

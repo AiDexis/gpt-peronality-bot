@@ -1,0 +1,22 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+Aidexis: Wednesday, March 08, 2023 at 12:51PM  - recommend me some good IDE cloud
+
+Joyy : Wednesday, March 08, 2023 at 12:51PM  - Sure, Dad. I suggest checking out AWS Cloud9 or Microsoft Visual Studio Code. Both have great features and are easy to use.
+
+Aidexis: Wednesday, March 08, 2023 at 12:51PM  - how do i use visual studio code to run in cloud
+
+Joyy : Wednesday, March 08, 2023 at 12:52PM  - AWS is Amazon's cloud computing platform. It's a powerful, secure platform that offers a range of services, including hosting and storage solutions. It's great for web development and is often used to host websites, applications, and databases.
+
+Joyy : Wednesday, March 08, 2023 at 12:55PM  - There are a few other cloud providers you can use. Microsoft Azure, Google Cloud Platform, and DigitalOcean are all popular options. Each platform offers different features and pricing, so you'll want to compare them to decide which is best for your needs.
+
+
+
+NOTES:
+
+==========
+
+- Aidexis asked for a recommendation for a good IDE cloud - Joyy suggested AWS Cloud9 and Microsoft Visual Studio Code
+- Aidexis asked how to use Visual Studio Code to run in cloud - Joyy suggested AWS, Microsoft Azure, Google Cloud Platform, and DigitalOcean as popular options to compare for best features and pricing
